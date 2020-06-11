@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltranExercise.Data", "AltranExercise.Data\AltranExercise.Data.csproj", "{71B328B3-92B5-4E1A-81E9-9E0A96C09658}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltranExercise.Service", "AltranExercise.Service\AltranExercise.Service.csproj", "{24012F68-48A0-432F-99C8-A5D87C194BE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltranExercise.WebApi", "AltranExercise.WebApi\AltranExercise.WebApi.csproj", "{39A07A96-DECF-416B-9FFF-01F8A6CFBF49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltranExercise.Common", "AltranExercise.Common\AltranExercise.Common.csproj", "{67B763FB-8F03-4743-B775-7A81EDAA81D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltranExercise.Test", "AltranExercise.Test\AltranExercise.Test.csproj", "{0920FD0F-98FA-4621-A2EE-2E026747B462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B328B3-92B5-4E1A-81E9-9E0A96C09658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B328B3-92B5-4E1A-81E9-9E0A96C09658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B328B3-92B5-4E1A-81E9-9E0A96C09658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B328B3-92B5-4E1A-81E9-9E0A96C09658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24012F68-48A0-432F-99C8-A5D87C194BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24012F68-48A0-432F-99C8-A5D87C194BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24012F68-48A0-432F-99C8-A5D87C194BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24012F68-48A0-432F-99C8-A5D87C194BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A07A96-DECF-416B-9FFF-01F8A6CFBF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A07A96-DECF-416B-9FFF-01F8A6CFBF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A07A96-DECF-416B-9FFF-01F8A6CFBF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A07A96-DECF-416B-9FFF-01F8A6CFBF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B763FB-8F03-4743-B775-7A81EDAA81D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B763FB-8F03-4743-B775-7A81EDAA81D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B763FB-8F03-4743-B775-7A81EDAA81D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B763FB-8F03-4743-B775-7A81EDAA81D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0920FD0F-98FA-4621-A2EE-2E026747B462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0920FD0F-98FA-4621-A2EE-2E026747B462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0920FD0F-98FA-4621-A2EE-2E026747B462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0920FD0F-98FA-4621-A2EE-2E026747B462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E601049-E03B-4A59-AD18-05550F0A9B3C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/nachitous
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AltranExercise.Data\\AltranExercise.Data.csproj
+		SccProjectName1 = AltranExercise.Data
+		SccLocalPath1 = AltranExercise.Data
+		SccProjectUniqueName2 = AltranExercise.Service\\AltranExercise.Service.csproj
+		SccProjectName2 = AltranExercise.Service
+		SccLocalPath2 = AltranExercise.Service
+		SccProjectUniqueName3 = AltranExercise.WebApi\\AltranExercise.WebApi.csproj
+		SccProjectName3 = AltranExercise.WebApi
+		SccLocalPath3 = AltranExercise.WebApi
+		SccProjectUniqueName4 = AltranExercise.Common\\AltranExercise.Common.csproj
+		SccProjectName4 = AltranExercise.Common
+		SccLocalPath4 = AltranExercise.Common
+		SccProjectUniqueName5 = AltranExercise.Test\\AltranExercise.Test.csproj
+		SccProjectName5 = AltranExercise.Test
+		SccLocalPath5 = AltranExercise.Test
+	EndGlobalSection
+EndGlobal
